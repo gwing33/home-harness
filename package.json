@@ -18,6 +18,7 @@
   "homepage": "https://github.com/gwing33/home-harness#readme",
   "dependencies": {
     "express": "^5.0.0-alpha.5",
+    "node-fetch": "^2.6.1",
     "sense-energy-node": "^1.0.6"
   }
 }
