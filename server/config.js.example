@@ -1,0 +1,4 @@
+export default {
+    SENSE_EMAIL: '',
+    SENSE_PASS: '',
+};

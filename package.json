@@ -1,0 +1,23 @@
+{
+  "name": "home-harness",
+  "version": "1.0.0",
+  "description": "This is a small project running on a Raspberry Pi meant to interface with various home network peripherals.",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwing33/home-harness.git"
+  },
+  "author": "Gerald Leenerts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwing33/home-harness/issues"
+  },
+  "homepage": "https://github.com/gwing33/home-harness#readme",
+  "dependencies": {
+    "express": "^5.0.0-alpha.5",
+    "sense-energy-node": "^1.0.6"
+  }
+}
